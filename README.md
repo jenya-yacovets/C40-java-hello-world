@@ -1,1 +1,1 @@
-# C40-java-hello-world
+# Lesson 1 - Hello world
